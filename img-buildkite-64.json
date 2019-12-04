@@ -1,5 +1,299 @@
 [
   {
+      "name": "test-red",
+      "image": "img-buildkite-64/test-red.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "test-orange",
+      "image": "img-buildkite-64/test-orange.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "test-yellow",
+      "image": "img-buildkite-64/test-yellow.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "test-green",
+      "image": "img-buildkite-64/test-green.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "test-blue",
+      "image": "img-buildkite-64/test-blue.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "test-indigo",
+      "image": "img-buildkite-64/test-indigo.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "test-violet",
+      "image": "img-buildkite-64/test-violet.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "uat-red",
+      "image": "img-buildkite-64/uat-red.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "uat-orange",
+      "image": "img-buildkite-64/uat-orange.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "uat-yellow",
+      "image": "img-buildkite-64/uat-yellow.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "uat-green",
+      "image": "img-buildkite-64/uat-green.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "uat-blue",
+      "image": "img-buildkite-64/uat-blue.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "uat-indigo",
+      "image": "img-buildkite-64/uat-indigo.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "uat-violet",
+      "image": "img-buildkite-64/uat-violet.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "sbox-red",
+      "image": "img-buildkite-64/sbox-red.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "sbox-orange",
+      "image": "img-buildkite-64/sbox-orange.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "sbox-yellow",
+      "image": "img-buildkite-64/sbox-yellow.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "sbox-green",
+      "image": "img-buildkite-64/sbox-green.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "sbox-blue",
+      "image": "img-buildkite-64/sbox-blue.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "sbox-indigo",
+      "image": "img-buildkite-64/sbox-indigo.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "sbox-violet",
+      "image": "img-buildkite-64/sbox-violet.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "prod-red",
+      "image": "img-buildkite-64/prod-red.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "prod-orange",
+      "image": "img-buildkite-64/prod-orange.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "prod-yellow",
+      "image": "img-buildkite-64/prod-yellow.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "prod-green",
+      "image": "img-buildkite-64/prod-green.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "prod-blue",
+      "image": "img-buildkite-64/prod-blue.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "prod-indigo",
+      "image": "img-buildkite-64/prod-indigo.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "prod-violet",
+      "image": "img-buildkite-64/prod-violet.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "dev-red",
+      "image": "img-buildkite-64/dev-red.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "dev-orange",
+      "image": "img-buildkite-64/dev-orange.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "dev-yellow",
+      "image": "img-buildkite-64/dev-yellow.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "dev-green",
+      "image": "img-buildkite-64/dev-green.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "dev-blue",
+      "image": "img-buildkite-64/dev-blue.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "dev-indigo",
+      "image": "img-buildkite-64/dev-indigo.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "dev-violet",
+      "image": "img-buildkite-64/dev-violet.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "stage-red",
+      "image": "img-buildkite-64/stage-red.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "stage-orange",
+      "image": "img-buildkite-64/stage-orange.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "stage-yellow",
+      "image": "img-buildkite-64/stage-yellow.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "stage-green",
+      "image": "img-buildkite-64/stage-green.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "stage-blue",
+      "image": "img-buildkite-64/stage-blue.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "stage-indigo",
+      "image": "img-buildkite-64/stage-indigo.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "stage-violet",
+      "image": "img-buildkite-64/stage-violet.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "demo-red",
+      "image": "img-buildkite-64/demo-red.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "demo-orange",
+      "image": "img-buildkite-64/demo-orange.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "demo-yellow",
+      "image": "img-buildkite-64/demo-yellow.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "demo-green",
+      "image": "img-buildkite-64/demo-green.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "demo-blue",
+      "image": "img-buildkite-64/demo-blue.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "demo-indigo",
+      "image": "img-buildkite-64/demo-indigo.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
+      "name": "demo-violet",
+      "image": "img-buildkite-64/demo-violet.png",
+      "category": "Buildkite",
+      "aliases": []
+  },
+  {
     "name": "csharp",
     "image": "img-buildkite-64/csharp.png",
     "category": "Buildkite",
